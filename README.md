@@ -55,17 +55,5 @@ This project reveals deep-seated gender disparities in both earnings and leaders
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-The code and NSCG dataset are linked in files above. 
+This project was originally for a graduate level Computational Social Science course, "Gender in Work", and I expanded upon it for my Data Visualization course.  
+The Jupyter Notebook with all code, NSCG dataset, and output visualizations are linked in files above. 
